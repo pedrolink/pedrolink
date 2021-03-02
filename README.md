@@ -6,7 +6,7 @@ My name is Pedro Link. I'm from Brazil.
 
 I'm computer scientist, that has been working as a Full Stack developer since 2017. 💻
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+I am passionate about what I do. I am a proactive person and always looking for new learnings.
 
 - 📍 From RS living in Erechim
 - 👨🏼‍💻 Full Stack developer at [Sicredi](https://www.sicredi.com.br/site/home)
