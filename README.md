@@ -9,7 +9,7 @@ I'm computer scientist, that has been working as a Full Stack developer since 20
 I am passionate about what I do. I am a proactive person and always looking for new learnings.
 
 - 📍 From RS living in Erechim
-- 👨🏼‍💻 Full Stack developer at [Sicredi](https://www.sicredi.com.br/site/home)
+- 👨🏼‍💻 Full Stack developer at [Órama Investimentos](https://www.orama.com.br/)
 
 Reach me out 👇🏼
 
