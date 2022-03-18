@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/pedrolink/pedrolink/blob/main/image/computer.png" width="350"/>
 
-My name is Pedro Link. I'm from Brazil. 
+My name is Pedro Link.
 
 I'm computer scientist, that has been working as a Full Stack developer since 2017. 💻
 
