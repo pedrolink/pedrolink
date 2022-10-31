@@ -9,7 +9,7 @@ I'm computer scientist, that has been working as a Full Stack developer since 20
 I am passionate about what I do. I am a proactive person and always looking for new learnings.
 
 - 📍 From Brazil living in Erechim, RS
-- 👨🏼‍💻 Python developer at [Órama Investimentos](https://www.orama.com.br/)
+- 👨🏼‍💻 Python developer at [T.Q.I](https://www.tqi.com.br/) | [PagSeguro](https://pagseguro.uol.com.br/#rmcl)
 
 Reach me out 👇🏼
 
