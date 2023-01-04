@@ -4,7 +4,7 @@
 
 My name is Pedro Link.
 
-I'm computer scientist, that has been working as a Full Stack developer since 2017. 💻
+I'm computer scientist, that has been working as a Software Engineer since 2017. 💻
 
 I am passionate about what I do. I am a proactive person and always looking for new learnings.
 
